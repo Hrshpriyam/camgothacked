@@ -1,23 +1,21 @@
 #!/bin/bash
-# CamPhish v1.7
-# Powered by TechChip
+# CAMGOTHACKED
+Created By Nivitha & Gowthami
 # Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
 trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf "\e[1;92m  _______  _______  _______  \e[0m\e[1;77m_______          _________ _______          \e[0m\n"
-printf "\e[1;92m (  ____ \(  ___  )(       )\e[0m\e[1;77m(  ____ )|\     /|\__   __/(  ____ \|\     /|\e[0m\n"
-printf "\e[1;92m | (    \/| (   ) || () () |\e[0m\e[1;77m| (    )|| )   ( |   ) (   | (    \/| )   ( |\e[0m\n"
-printf "\e[1;92m | |      | (___) || || || |\e[0m\e[1;77m| (____)|| (___) |   | |   | (_____ | (___) |\e[0m\n"
-printf "\e[1;92m | |      |  ___  || |(_)| |\e[0m\e[1;77m|  _____)|  ___  |   | |   (_____  )|  ___  |\e[0m\n"
-printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | |         ) || (   ) |\e[0m\n"
-printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
-printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
-printf " \e[1;93m CamPhish Ver 1.7 \e[0m \n"
-printf " \e[1;77m www.techchip.net | youtube.com/techchipnet \e[0m \n"
+printf "  
+  ____    _    __  __  ____  ___ _____ _   _    _    ____ _  _______ ____  
+ / ___|  / \  |  \/  |/ ___|/ _ \_   _| | | |  / \  / ___| |/ / ____|  _ \ 
+| |     / _ \ | |\/| | |  _| | | || | | |_| | / _ \| |   | ' /|  _| | | | |
+| |___ / ___ \| |  | | |_| | |_| || | |  _  |/ ___ \ |___| . \| |___| |_| |
+ \____/_/   \_\_|  |_|\____|\___/ |_| |_| |_/_/   \_\____|_|\_\_____|____/ 
 
+
+printf " \e[1;93m CAMGOTHACKED \e[0m \n"
 printf "\n"
 
 
