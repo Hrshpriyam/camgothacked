@@ -1,6 +1,6 @@
 #!/bin/bash
 # CAMGOTHACKED
-Created By Nivitha & Gowthami
+# Created By Nivitha & Gowthami
 # Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
 
 trap 'printf "\n";stop' 2
